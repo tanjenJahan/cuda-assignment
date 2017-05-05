@@ -1,0 +1,296 @@
+.section1{
+	background-color: #8b579f;
+	height:100vh;
+}
+.part1{
+	background-color:transparent;
+	height:15%;
+	padding-top: 2%;
+	border: none;
+
+}
+.navbar-default .navbar-nav li a{
+	color: #eee;
+	font-weight: bold;
+}
+.navbar-default .navbar-nav{
+	padding-top:1%;
+}
+.part2{
+	padding-top:15%;
+	color:#ffffff;
+	font-weight: bold;
+	text-align:center;
+
+}
+.part2 h1{
+	padding-bottom: 4%;
+}
+.btn-coral{
+	background-color: coral;
+	border-radius: 5px;
+	padding:15px 30px;
+	border-color:coral;
+	font-weight: bold;
+	cursor:pointer;
+	color:#ffffff;
+}
+.btn-coral:hover{
+	background-color: coral;
+	border-radius: 5px;
+	padding:15px 30px;
+	border-color:coral;
+	font-weight: bold;
+	cursor:pointer;
+	color:#ffffff;
+}
+.btn-coral:focus{
+	background-color: coral;
+	border-radius: 5px;
+	padding:15px 30px;
+	border-color:coral;
+	font-weight: bold;
+	cursor:pointer;
+	color:#ffffff;
+	outline-color: coral;
+}
+.section2{
+	height:auto;
+	background-color: #22c4a8;
+}
+.part3{
+	padding-top: 5%;
+	padding-bottom: 2%;
+	text-align: center;
+	color:#ffffff;
+}
+.part3 i{
+	color:#777;
+	padding-bottom: 2%;
+}
+.part3 p{
+	font-size: 20px;
+}
+.part4{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	text-align: center;
+	color:#ffffff;
+   
+}
+.part4 img{
+	margin: 0 auto;
+}
+.section3{
+	background-color: #eaf4f7;
+	height:auto;
+	color:#9da3a6;
+
+}
+.part5{
+	padding-top: 5%;
+	padding-bottom: 4%;
+	text-align: center;
+}
+.part6{
+	text-align: center;
+	padding-bottom: 5%;
+}
+.part6 img{
+	margin:0 auto;
+	padding-bottom: 2%;
+}
+.part6 h5{
+	color:#22c4a8;
+	padding-bottom: 1%;
+}
+.part6 i{
+	margin-right: 4%;
+}
+.section4{
+	background-color: #edf0f2;
+	height:100vh;
+}
+.part7{
+	padding-top: 5%;
+	text-align: center;
+}
+.part7 i{
+	color:#999a9c;
+	padding-bottom: 2%;
+}
+.part7 p{
+	color:#999a9c;
+	padding-bottom: 10%;
+}
+.part8 img{
+	margin:0 auto;
+}
+.part8 h4{
+	text-align: center;
+	
+}
+.section5{
+	background-color: #fddd9c;
+	height:auto;
+	text-align: center;
+}
+.part9 h1{
+	padding-top: 5%;
+	color:#3d3d3d;
+}
+.part9 i{
+	padding-bottom: 2%;
+	color:#6a5e45;
+}
+.part9 p{
+	color:#6a5e45;
+}
+.part9 p{
+	padding-bottom: 3%;
+}
+.part10{
+	padding-bottom: 5%;
+	color:#6a5e45;
+}
+.btn-button2 {
+	background-color:#eacd91;
+	border:1px solid #eacd91;
+}
+.btn-button2:hover {
+	background-color:#eacd91;
+	border:1px solid #eacd91;
+}
+.btn-button3 {
+	background-color:#eacd91;
+	border:1px solid #eacd91;
+}
+.btn-button3:hover {
+	background-color:#eacd91;
+	border:1px solid #eacd91;
+}
+.btn-button4 {
+	background-color:#eacd91;
+	border:1px solid #eacd91;
+}
+.btn-button4:hover {
+	background-color:#eacd91;
+	border:1px solid #eacd91;
+}
+.part11 img{
+	margin:0 auto;
+
+}
+.part11{
+	padding-bottom: 2%;
+	color:#3d3d3d;
+}
+.part12{
+	padding-bottom: 2%;
+	color:#3d3d3d;
+}
+.part12 img{
+	margin:0 auto;
+}
+.part13 button{
+	background-color:#22c4a8;
+	padding:15px 25px; 
+	color:white;
+	font-size: 15px;
+}
+.part13{
+	padding-bottom: 5%;
+}
+.section6{
+	background-color: #d84e86;
+	text-align: center;
+}
+.part14{
+	padding-top: 5%;
+}
+.part14 h1{
+	color:#ffffff;
+}
+.part14 p{
+	color:#ffffff;
+	padding-bottom: 5%;
+}
+.part14 i{
+	color:#91385c;
+	padding-bottom: 2%;
+}
+.part15 img{
+	margin:0 auto;
+
+}
+.part15 h5{
+	color:#eadee5;
+	font-style: oblique;
+	text-align: left;
+}
+.part15 h3{
+	color:#ffffff;
+	text-align: left;
+}
+.part15 p{
+	color:#fcd79c;
+	text-align: left;
+}
+.part15{
+	padding-bottom: 3%;
+}
+.section7{
+	background-color: #465d9e;
+	color:#ffffff;
+	text-align: center;
+}
+
+.part16{
+	padding-top: 5%;
+	padding-bottom: 5%;
+
+}
+.part16 i{
+	color:#324478;
+	padding-bottom: 2%;
+}
+.part17{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.part17 input{
+	background-color: #324478;
+	color: #94969a;
+	border:1px solid #324478 ;
+}
+.part18{
+	padding-bottom: 5%;
+}
+.part18 textarea{
+	background-color: #324478;
+	border:1px solid #324478;
+	color:#ffffff;
+	padding-bottom: 2%;
+}
+.part19{
+	padding-bottom: 5%;
+}
+.btn-sky{
+	background-color: #3bbee8;
+	border: 1px solid #3bbee8;
+	color:#ffffff;
+	padding:10px 30px;
+}
+.section8{
+
+	background-color: #344b8e;
+
+}
+.part20 h5{
+	
+	color:#ffffff;
+	
+}
+
+
+
